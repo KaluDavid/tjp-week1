@@ -1,0 +1,28 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+
+}
+
+ol {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    padding: 1%;
+    border: none;
+    border-radius: 40%;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.table {
+    color: white;
+}
